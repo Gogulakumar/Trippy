@@ -1,0 +1,1358 @@
+.slide-169-14 {
+    color: #000;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    padding-top: 30px;
+    padding-left: 50px;
+    font-family: ABeeZee;
+    font-size: 1.5rem;
+    font-weight: 400;
+    line-height: 28px;
+    display: flex;
+  }
+  
+  .flex-container {
+    height: 80%;
+    flex-direction: column;
+    flex-basis: 30%;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-bottom: 32px;
+    margin-left: 2px;
+    font-size: .875rem;
+    display: flex;
+  }
+  
+  .rectangle-54 {
+    width: 95%;
+    background-color: #d9d9d9;
+    border-radius: 20px;
+    flex-direction: row;
+    flex-basis: 8%;
+    justify-content: space-around;
+    align-self: flex-end;
+    align-items: center;
+    margin-bottom: 18px;
+    margin-left: 10px;
+    padding-left: 39px;
+    font-size: 2rem;
+    line-height: 38px;
+    display: flex;
+  }
+  
+  .search-transactions {
+    margin-bottom: 3px;
+    margin-left: 10px;
+  }
+  
+  .bithree-dots-vertica {
+    width: 50px;
+    height: 30px;
+    object-fit: cover;
+    margin-top: 1px;
+    margin-left: 14px;
+    background-image: url("bithreeDotsVertica.svg");
+  }
+  
+  .flex-container-1 {
+    width: 60%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2px;
+    margin-left: 1px;
+    margin-right: 15px;
+    font-size: 1.5rem;
+    display: flex;
+  }
+  
+  .harish-img-2 {
+    width: 76px;
+    height: 75px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 112px;
+    background-image: url("harishImg2.png");
+  }
+  
+  .flex-container-2 {
+    height: 65%;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-bottom: 3px;
+    display: flex;
+  }
+  
+  .harish {
+    margin-left: 1px;
+  }
+  
+  .november-92022-at-90 {
+    font-size: .875rem;
+    line-height: 17px;
+  }
+  
+  .flex-container-3 {
+    width: 60%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 15px;
+    display: flex;
+  }
+  
+  .gidi-3-4 {
+    width: 75px;
+    height: 76px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 112px;
+    background-image: url("gidi32.png");
+  }
+  
+  .flex-container-4 {
+    height: 65%;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    display: flex;
+  }
+  
+  .gidiyon {
+    font-size: 1.5rem;
+  }
+  
+  .november-92022-at-81 {
+    line-height: 17px;
+  }
+  
+  .flex-container-5 {
+    width: 60%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5px;
+    margin-right: 15px;
+    line-height: 17px;
+    display: flex;
+  }
+  
+  .gokul-2-3 {
+    width: 75px;
+    height: 74px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 112px;
+    background-image: url("gokul21.png");
+  }
+  
+  .flex-container-6 {
+    height: 70%;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-bottom: 2px;
+    display: flex;
+  }
+  
+  .gokul {
+    font-size: 1.5rem;
+    line-height: 28px;
+  }
+  
+  .november-92022-at-71 {
+    margin-bottom: -1px;
+  }
+  
+  .flex-container-7 {
+    width: 60%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    margin-right: 7px;
+    line-height: 17px;
+    display: flex;
+  }
+  
+  .gidi-3-5 {
+    width: 75px;
+    height: 76px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 112px;
+    background-image: url("gidi32.png");
+  }
+  
+  .flex-container-8 {
+    height: 65%;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-bottom: 5px;
+    display: flex;
+  }
+  
+  .gidiyon-1 {
+    font-size: 1.5rem;
+    line-height: 28px;
+  }
+  
+  .flex-container-9 {
+    width: 60%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 6px;
+    margin-right: 15px;
+    font-size: 1.5rem;
+    display: flex;
+  }
+  
+  .gowtham-2-4 {
+    width: 75px;
+    height: 77px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 112px;
+    background-image: url("gowtham22.png");
+  }
+  
+  .flex-container-10 {
+    height: 65%;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-bottom: 6px;
+    display: flex;
+  }
+  
+  .november-82022-at-62 {
+    font-size: .875rem;
+    line-height: 17px;
+  }
+  
+  .flex-container-11 {
+    width: 60%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-top: 1px;
+    margin-right: 15px;
+    display: flex;
+  }
+  
+  .hariharan-4 {
+    width: 76px;
+    height: 75px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 112px;
+    background-image: url("hariharan1.png");
+  }
+  
+  .flex-container-12 {
+    height: 65%;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-top: 3px;
+    display: flex;
+  }
+  
+  .haran {
+    margin-left: 1px;
+    font-size: 1.5rem;
+  }
+  
+  .november-82022-at-11 {
+    line-height: 17px;
+  }
+  
+  .flex-container-13 {
+    width: 60%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-right: 15px;
+    font-size: 1.5rem;
+    line-height: 17px;
+    display: flex;
+  }
+  
+  .gokul-2-2 {
+    width: 75px;
+    height: 74px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 112px;
+    background-image: url("gokul21.png");
+  }
+  
+  .flex-container-14 {
+    height: 75%;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-top: 4px;
+    display: flex;
+  }
+  
+  .gokul-1 {
+    line-height: 28px;
+  }
+  
+  .november-72022-at-71 {
+    font-size: .875rem;
+  }
+  
+  .flex-container-15 {
+    width: 60%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1px;
+    margin-right: 15px;
+    display: flex;
+  }
+  
+  .harish-img-3 {
+    width: 76px;
+    height: 75px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 112px;
+    background-image: url("harishImg2.png");
+  }
+  
+  .flex-container-16 {
+    height: 65%;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-bottom: 3px;
+    display: flex;
+  }
+  
+  .harish-1 {
+    margin-left: 1px;
+    font-size: 1.5rem;
+  }
+  
+  .november-72022-at-90 {
+    line-height: 17px;
+  }
+  
+  .flex-container-17 {
+    width: 60%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-left: 1px;
+    margin-right: 7px;
+    font-size: 1.5rem;
+    line-height: 17px;
+    display: flex;
+  }
+  
+  .gowtham-2-3 {
+    width: 75px;
+    height: 77px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 112px;
+    background-image: url("gowtham22.png");
+  }
+  
+  .flex-container-18 {
+    height: 70%;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-top: 6px;
+    display: flex;
+  }
+  
+  .gowtham {
+    line-height: 28px;
+  }
+  
+  .november-62022-at-10 {
+    font-size: .875rem;
+  }
+  
+  .flex-container-19 {
+    color: #f92a2ad4;
+    height: 65%;
+    flex-direction: column;
+    flex-basis: 4%;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-bottom: 75px;
+    margin-left: 25px;
+    display: flex;
+  }
+  
+  .num-1000 {
+    color: #20df7f;
+    align-self: flex-end;
+    margin-bottom: 40px;
+  }
+  .num-500 {
+    color: #20df7f;
+    margin-bottom: 50px;
+  }
+  
+  .num-300 {
+    color: #20df7f;
+    margin-bottom: 50px;
+  }
+  
+  .num-500-1 {
+    margin-bottom: 45px;
+    margin-left: 1px;
+  }
+  
+  .num-450 {
+    color: #20df7f;
+    margin-top: 1px;
+    margin-bottom: 45px;
+  }
+  
+  .num-200 {
+    margin-bottom: 50px;
+    margin-left: 1px;
+  }
+  
+  .num-300-1 {
+    margin-left: 1px;
+    margin-bottom: 55px;
+  }
+  
+  .num-1000-1 {
+    align-self: center;
+    margin-bottom: 30px;
+  }
+  
+  .num-450-1 {
+    margin-top: px;
+    margin-left: 1px;
+    
+  }
+  
+  .flex-container-20 {
+    height: 100%;
+    flex-direction: column;
+    flex-basis: 10%;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-bottom: 7px;
+    margin-left: 29px;
+    display: flex;
+  }
+  
+  .whats-app-image-2022 {
+    width: 118px;
+    height: 117px;
+    margin-bottom: 70px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 191px;
+    background-image: url("whatsAppImage2022.png");
+  }
+  
+  .flex-container-21 {
+    width: 95%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: flex-end;
+    align-items: center;
+    margin-left: 1px;
+    display: flex;
+  }
+  
+  .rectangle-57 {
+    width: 20px;
+    height: 700px;
+    object-fit: cover;
+    background-image: url("rectangle57.svg");
+  }
+  
+  .flex-container-22 {
+    height: 95%;
+    flex-direction: column;
+    flex-basis: 47%;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 13px;
+    display: flex;
+  }
+  
+  .kutty-1 {
+    width: 76px;
+    height: 75px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 112px;
+    background-image: url("kutty1.png");
+    align-self: flex-start;
+    
+  }
+  
+  .gidi-3-2 {
+    width: 75px;
+    height: 76px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 112px;
+    align-self: flex-start;
+    background-image: url("gidi32.png");
+    margin-left: 1px;
+    
+  }
+  
+  .gowtham-2-2 {
+    width: 75px;
+    height: 77px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 112px;
+    align-self: flex-start;
+  
+    margin-left: 1px;
+    background-image: url("gowtham22.png");
+  }
+  
+  .gokul-2-1 {
+    width: 75px;
+    height: 74px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 112px;
+    align-self: flex-start;
+    margin-left: 1px;
+    background-image: url("gokul21.png");
+  }
+  
+  .hariharan-1 {
+    width: 76px;
+    height: 75px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 112px;
+    background-image: url("hariharan1.png");
+  }
+  
+  .gidi-3-3 {
+    width: 75px;
+    height: 76px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 112px;
+    align-self: flex-end;
+    margin-bottom: 6px;
+    background-image: url("gidi32.png");
+  }
+  
+  .kutty-2 {
+    width: 76px;
+    height: 75px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 112px;
+    align-self: flex-end;
+    margin-top: 2px;
+    background-image: url("kutty1.png");
+  }
+  
+  .hariharan-3 {
+    width: 76px;
+    height: 75px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 112px;
+    align-self: flex-end;
+    margin-bottom: 3px;
+    background-image: url("hariharan1.png");
+  }
+  
+  .hariharan-2 {
+    width: 76px;
+    height: 75px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 112px;
+    align-self: flex-end;
+    background-image: url("hariharan1.png");
+    margin-bottom: 20px;
+  }
+  
+  .flex-container-23 {
+    height: 80%;
+    flex-direction: column;
+    flex-basis: 25%;
+    justify-content: space-around;
+    align-items: stretch;
+    margin-bottom: 20px;
+    margin-left: 28px;
+    font-size: 1.25rem;
+    line-height: 24px;
+    display: flex;
+  }
+  
+  .flex-container-24 {
+    width: 85%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: flex-end;
+    align-items: flex-end;
+    margin-bottom: 20px;
+    margin-left: 2px;
+    font-family: Aoboshi One;
+    font-size: 2rem;
+    line-height: 46px;
+    display: flex;
+  }
+  
+  .transaction-history {
+    margin-bottom: 1px;
+  }
+  
+  .rupee-1-1 {
+    width: 66px;
+    height: 58px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    background-image: url("rupee11.png");
+  }
+  
+  .flex-container-25 {
+    width: 90%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2px;
+    margin-right: 5px;
+    line-height: 17px;
+    display: flex;
+  }
+  
+  .flex-container-26 {
+    height: 70%;
+    flex-direction: column;
+    flex-basis: 48%;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-bottom: 6px;
+    font-size: .875rem;
+    display: flex;
+  }
+  
+  .flex-container-27 {
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: flex-end;
+    align-items: stretch;
+    margin-left: 1px;
+    font-size: 1.25rem;
+    line-height: 24px;
+    display: flex;
+  }
+  
+  .harish-2 {
+    margin-top: 1px;
+  }
+  
+  .biarrow-right-short {
+    width: 42px;
+    height: 19px;
+    object-fit: cover;
+    background-image: url("biarrowRightShort.svg");
+  }
+  
+  .gidi-3-6 {
+    width: 75px;
+    height: 75px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 100%;
+    background-image: url("gidi32.png");
+    margin-left:6px;
+    margin-right: -10px;
+  }
+  
+  .gidiyon-2 {
+    align-self: flex-start;
+    margin-top: 13px;
+    line-height: 24px;
+   
+  
+  }
+  
+  .flex-container-28 {
+    width: 90%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-right: 10px;
+    display: flex;
+  }
+  
+  .flex-container-29 {
+    height: 65%;
+    flex-direction: column;
+    flex-basis: 49%;
+    justify-content: space-between;
+    align-self: center;
+    align-items: stretch;
+    margin-top: 1px;
+    display: flex;
+  }
+  
+  .flex-container-30 {
+    width: 100%;
+    flex-direction: row;
+    flex-basis: 42%;
+    justify-content: space-between;
+    align-items: center;
+    margin-right:-1px;
+    display: flex;
+    
+  }
+  
+  .biarrow-right-short-1 {
+    width: 42px;
+    height: 19px;
+    object-fit: cover;
+    background-image: url("biarrowRightShort.svg");
+  }
+  
+  .num-9-november-202272 {
+    font-size: .875rem;
+    line-height: 17px;
+    padding-left: 4px;
+  }
+  
+  .hariharan-5 {
+    width: 75px;
+    height: 76px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 112px;
+    background-image: url("hariharan1.png");
+    margin-left: 6px;
+  }
+  
+  .haran-1 {
+    margin-top: 20px;
+    
+  }
+  
+  .flex-container-31 {
+    width: 90%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+    margin-right: 12px;
+    font-size: .875rem;
+    display: flex;
+  }
+  
+  .flex-container-32 {
+    height: 70%;
+    flex-direction: column;
+    flex-basis: 49%;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-top: 6px;
+    display: flex;
+  }
+  
+  .flex-container-33 {
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-right: -1px;
+    font-size: 1.25rem;
+    display: flex;
+  }
+  
+  .biarrow-right-short-7 {
+    width: 42px;
+    height: 19px;
+    object-fit: cover;
+    background-image: url("biarrowRightShort.svg");
+  }
+  
+  .num-9-november-202252 {
+    line-height: 17px;
+    padding-left: 4px;
+  }
+  
+  .gokul-2-4 {
+    width: 75px;
+    height: 76px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 112px;
+    background-image: url("gokul21.png");
+    margin-left: 7px;
+  }
+  
+  .gokul-2 {
+    align-self: flex-start;
+    margin-top: 20px;
+    font-size: 1.25rem;
+  }
+  
+  .flex-container-34 {
+    width: 90%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-bottom: 2px;
+    margin-left: 7px;
+    margin-right: 9px;
+    font-size: .875rem;
+    display: flex;
+  }
+  
+  .flex-container-35 {
+    height: 65%;
+    flex-direction: column;
+    flex-basis: 48%;
+    justify-content: space-between;
+    align-self: center;
+    align-items: stretch;
+    margin-top: 2px;
+    display: flex;
+  }
+  
+  .flex-container-36 {
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+    font-size: 1.25rem;
+    display: flex;
+  }
+  
+  .biarrow-right-short-2 {
+    width: 42px;
+    height: 19px;
+    background-image: url("biarrowRightShort.svg");
+    object-fit: cover;
+  }
+  
+  .num-8-november-202211 {
+    line-height: 17px;
+  }
+  
+  .hariharan-6 {
+    width: 76px;
+    height: 75px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 112px;
+    background-image: url("hariharan1.png");
+    margin-left: 8px;
+  }
+  
+  .haran-2 {
+    margin-top: 20px;
+    font-size: 1.25rem;
+  }
+  
+  .flex-container-37 {
+    width: 90%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 5px;
+    display: flex;
+  }
+  
+  .flex-container-38 {
+    height: 65%;
+    flex-direction: column;
+    flex-basis: 47%;
+    justify-content: space-between;
+    align-items: stretch;
+    display: flex;
+  }
+  
+  .flex-container-39 {
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: flex-end;
+    align-items: center;
+    margin-left: 1px;
+    display: flex;
+  }
+  
+  .biarrow-right-short-5 {
+    width: 42px;
+    height: 19px;
+    object-fit: cover;
+    background-image: url("biarrowRightShort.svg");
+  }
+  
+  .num-8-november-202231 {
+    font-size: .875rem;
+    line-height: 17px;
+  }
+  
+  .gidi-3-7 {
+    width: 75px;
+    height: 76px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 112px;
+    background-image: url("gidi32.png");
+    margin-left: 30px;
+  }
+  
+  .gidiyon-3 {
+    align-self: flex-start;
+    margin-top: 20px;
+    margin-left: px;
+  }
+  
+  .flex-container-40 {
+    width: 95%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    display: flex;
+  }
+  
+  .flex-container-41 {
+    height: 65%;
+    flex-direction: column;
+    flex-basis: 42%;
+    justify-content: space-between;
+    align-self: center;
+    align-items: stretch;
+    margin-top: 7px;
+    display: flex;
+  }
+  
+  .flex-container-42 {
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+  }
+  
+  .vector-4 {
+    width: 21px;
+    height: 8px;
+    object-fit: cover;
+    background-image: url("vector4.svg");
+  }
+  
+  .num-8-november-202242 {
+    margin-bottom: -1px;
+    font-size: .875rem;
+    line-height: 17px;
+  }
+  
+  .gowtham-2-5 {
+    width: 75px;
+    height: 77px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 112px;
+    margin-left: 30px;
+    background-image: url("gowtham22.png");
+  }
+  
+  .gowtham-1 {
+    margin-top: 20px;
+  }
+  
+  .flex-container-43 {
+    width: 90%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 3px;
+    margin-left: 5px;
+    margin-right: 11px;
+    font-size: .875rem;
+    display: flex;
+  }
+  
+  .flex-container-44 {
+    height: 70%;
+    flex-direction: column;
+    flex-basis: 48%;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-top: 3px;
+    padding-right: 1px;
+    display: flex;
+  }
+  
+  .flex-container-45 {
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-right: 1px;
+    font-size: 1.25rem;
+    display: flex;
+  }
+  
+  .biarrow-right-short-3 {
+    width: 42px;
+    height: 19px;
+    background-image: url("biarrowRightShort.svg");
+    object-fit: cover;
+  }
+  
+  .num-7-november-202210 {
+    line-height: 17px;
+  }
+  
+  .gokul-2-5 {
+    width: 75px;
+    height: 74px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 112px;
+    background-image: url("gokul21.png");
+    margin-left: 20px;
+  }
+  
+  .gokul-3 {
+    align-self: flex-start;
+    margin-top: 20px;
+    margin-right: px;
+    font-size: 1.25rem;
+    
+  }
+  
+  .flex-container-46 {
+    width: 90%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-bottom: 5px;
+    margin-left: 8px;
+    margin-right: 6px;
+    display: flex;
+  }
+  
+  .flex-container-47 {
+    height: 65%;
+    flex-direction: column;
+    flex-basis: 48%;
+    justify-content: space-between;
+    align-self: center;
+    align-items: stretch;
+    margin-top: 2px;
+    display: flex;
+  }
+  
+  .flex-container-48 {
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+  }
+  
+  .biarrow-right-short-4 {
+    width: 42px;
+    height: 19px;
+    object-fit: cover;
+    background-image: url("biarrowRightShort.svg");
+  }
+  
+  .num-7-november-202212 {
+    margin-bottom: -1px;
+    font-size: .875rem;
+    line-height: 17px;
+  }
+  
+  .kutty-3 {
+    width: 76px;
+    height: 75px;
+    object-fit: cover;
+    background-image: url("kutty1.png");
+    background-position: center;
+    background-size: cover;
+    border-radius: 112px;
+   
+    margin-left: 20px;
+  }
+  
+  .harish-3 {
+    margin-top: 20px;
+    margin-right: px;
+  }
+  
+  .flex-container-49 {
+    width: 95%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1px;
+    margin-left: 10px;
+    margin-right: 10px;
+    line-height: 17px;
+    display: flex;
+  }
+  
+  .flex-container-50 {
+    height: 65%;
+    flex-direction: column;
+    flex-basis: 47%;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-top: 1px;
+    font-size: .875rem;
+    display: flex;
+  }
+  
+  .flex-container-51 {
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: flex-end;
+    align-items: stretch;
+    margin-left: 1px;
+    font-size: 1.25rem;
+    line-height: 24px;
+    display: flex;
+  }
+  
+  .haran-3 {
+    margin-top: 1px;
+  }
+  
+  .biarrow-right-short-6 {
+    width: 42px;
+    height: 19px;
+    background-image: url("biarrowRightShort6.svg");
+    object-fit: cover;
+  }
+  
+  .gidi-3-8 {
+    width: 75px;
+    height: 76px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    background-image: url("gidi32.png");
+    border-radius: 112px;
+  }
+  
+  .gidiyon-4 {
+    margin-bottom: 12px;
+    margin-right: px;
+    line-height: 24px;
+  }
+  
+  .flex-container-52 {
+    height: 70%;
+    flex-direction: column;
+    flex-basis: 3%;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-bottom: 59px;
+    display: flex;
+  }
+  
+  .rupee-1 {
+    width: 53px;
+    height: 23px;
+    object-fit: cover;
+    background-image: url("rupee1.png");
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 50px;
+  }
+  
+  .rupee-2 {
+    width: 53px;
+    height: 23px;
+    object-fit: cover;
+    background-position: center;
+    background-image: url("rupee1.png");
+    background-size: cover;
+    margin-bottom: 50px;
+  }
+  
+  .rupee-2-1, .rupee-2-2 {
+    width: 53px;
+    height: 23px;
+    background-image: url("rupee1.png");
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 60px;
+  }
+  
+  .rupee-3 {
+    width: 53px;
+    background-image: url("rupee1.png");
+    height: 23px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 60px;
+  }
+  
+  .rupee-3-1, .rupee-4 {
+    width: 53px;
+    height: 23px;
+    object-fit: cover;
+    background-image: url("rupee1.png");
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 55px;
+  }
+  
+  .rupee-4-1 {
+    width: 53px;
+    height: 23px;
+    background-image: url("rupee1.png");
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 50px;
+  }
+  
+  .rupee-5 {
+    width: 53px;
+    height: 23px;
+    object-fit: cover;
+    background-image: url("rupee1.png");
+    background-position: center;
+    background-size: cover;
+    align-self: flex-end;
+  }
+  
+  .flex-container-53 {
+    color: #0773ba;
+    height: 65%;
+    flex-direction: column;
+    flex-basis: 2%;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 67px;
+    display: flex;
+  }
+  
+  .num-500-2 {
+    align-self: flex-end;
+    margin-bottom: 40px;
+  }
+  
+  .num-250 {
+    align-self: flex-end;
+    margin-top: 1px;
+    margin-bottom: 2px;
+  }
+  
+  .num-100 {
+    margin-top: 40px;
+    margin-bottom: 60px;
+  }
+  
+  .num-320 {
+    margin-bottom: 50px;
+  }
+  
+  .num-250-1 {
+    align-self: flex-end;
+    margin-top: 1px;
+    margin-bottom: 2px;
+  }
+  
+  .num-750 {
+    align-self: flex-start;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  
+  .num-150 {
+    align-self: flex-start;
+    margin-bottom: 0px;
+  }
+
+  .num-100-1 {
+    margin-top: 50px;
+  }
+  .num-250-2{
+    margin-bottom: 40px;
+  }
+  
+  .flex-container-54 {
+    height: 75%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-bottom: 1px;
+    margin-left: 56px;
+    display: flex;
+  }
+  
+  .vector-2 {
+    width: 37px;
+    height: 11px;
+    object-fit: cover;
+    background-image: url("vector2.svg");
+    z-index: 1;
+  }
+  
+  .rectangle-55 {
+    width: 34px;
+    height: 787px;
+    object-fit: cover;
+    background-image: url("rectangle55.svg");
+  }
