@@ -1,9 +1,9 @@
 import './App.css';
-import Transaction from './Transaction';
+import Qrcode1 from './Qrcode1';
 function App() {
   return (
     <div>
-     <Transaction />
+     <Qrcode1 />
     </div>
   );
 }
